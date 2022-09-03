@@ -1,4 +1,4 @@
 /datasets
 **/.ipynb_checkpoints
 /project*
-/catboost_info
+**/catboost_info
